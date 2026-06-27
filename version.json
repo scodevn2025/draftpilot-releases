@@ -1,6 +1,5 @@
 {
-  "version": "4.0.1",
-  "url": "https://github.com/scodevn2025/draftpilot-releases/releases/download/v4.0.1/DraftPilot_4.0.1_x64-setup.exe",
-  "notes": "Phase 37 — Tự cập nhật qua internet: bấm 'Kiểm tra cập nhật' trong hộp Giới thiệu để tải + cài bản mới ngay trong app. Hiện tên tác giả (ScodeVN) cạnh số phiên bản.",
-  "pub_date": "2026-06-25"
+  "version": "4.0.31",
+  "url": "https://github.com/scodevn2025/draftpilot-releases/releases/download/v4.0.31/DraftPilot_4.0.31_x64-setup.exe",
+  "notes": "Tab Giọng đọc AI · phụ đề bottom + 4 mẫu · hiệu ứng theo cảm xúc · clip video đủ 8s · nạp JSON dự án export · Tạo lại A/B hàng loạt."
 }
