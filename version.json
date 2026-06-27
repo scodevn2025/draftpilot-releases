@@ -1,5 +1,5 @@
 {
-  "version": "4.0.31",
-  "url": "https://github.com/scodevn2025/draftpilot-releases/releases/download/v4.0.31/DraftPilot_4.0.31_x64-setup.exe",
-  "notes": "Tab Giọng đọc AI · phụ đề bottom + 4 mẫu · hiệu ứng theo cảm xúc · clip video đủ 8s · nạp JSON dự án export · Tạo lại A/B hàng loạt."
+  "version": "4.0.32",
+  "url": "https://github.com/scodevn2025/draftpilot-releases/releases/download/v4.0.32/DraftPilot_4.0.32_x64-setup.exe",
+  "notes": "Chạy được trên MỌI MÁY (không cần cài Python) + bảo mật mã nguồn (sidecar biên dịch mã máy). Kèm tab Giọng đọc AI, phụ đề bottom, clip video đủ 8s."
 }
